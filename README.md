@@ -53,13 +53,23 @@ each number should represent to callback used setTimeout with random timeout for
 
 
 Exam 3 Angular
+
 # Angular Cli 
+
    Form  ( Reactive Form + Validator )
+   
      - Name ** Require
+      
      - Surname ** Require
+     
      - Tel ** Format Pattern
+     
      - Email *** Format Pattern
+     
      - Note
+  
   Backend 
+  
      - NodeJS 
+     
      - Global (DB ?)
